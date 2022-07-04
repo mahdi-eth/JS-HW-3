@@ -1,1 +1,3 @@
 # JS-HW-3
+- JAVASCRIPT
+    - HOMEWORK 3
